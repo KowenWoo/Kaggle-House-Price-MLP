@@ -10,5 +10,5 @@ Archtecture:
 - batch size 64
 - epochs 500
 
-**_Score: 0.13805 
-Placed 2065/4699 on Kaggle Leaderboard_**
+**Score: 0.13805**
+**Placed 2065/4699 on Kaggle Leaderboard**
