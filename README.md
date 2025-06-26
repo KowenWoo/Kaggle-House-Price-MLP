@@ -1,6 +1,6 @@
 **First Submission to Kaggle House Prices - Advanced Regression Techniques**
 
-Archtecture: 
+**Archtecture:**
 - 6 layer MLP (512 ... 32)
 - Xavier-Glorot Initialization
 - Batch Normalization
@@ -11,4 +11,5 @@ Archtecture:
 - epochs 500
 
 **Score: 0.13805**
+
 **Placed 2065/4699 on Kaggle Leaderboard**
